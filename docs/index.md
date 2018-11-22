@@ -1,4 +1,3 @@
-CHANGED
 **List of projects available**:
 
   * [Human Activity Recognition](Activity_Recognition.pdf): Application of Random Forests to accelerometer data to predict exercise quality using R.
@@ -6,3 +5,6 @@ CHANGED
   * [Amplicon sequencing](Amplicon_sequecing.pdf): Identification of genetic variants using R.
   * [WHO under 5 survival study](AnalyticalReport_WHO.html): Exploratory analysis of child survival by country and cause of death using Python.
   * [Kickstarter project success](NarrativeAnalytics_Kickstarter.html): Identification of factor leading to successful funding using Python.
+
+
+<a href="{{ nav.url }}" target="_blank">{{ nav.name }}</a>
