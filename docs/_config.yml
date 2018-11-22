@@ -1,5 +1,4 @@
-title: Repository of public projects
-description: by [Carlos Neves](https://www.linkedin.com/in/carlos-neves-7b6a11b5/){:target="_blank"}, Bioinformatician at [FiosGenomics](https://www.fiosgenomics.com/) and Data Science mentor at [Thinkful](https://www.thinkful.com/).
+title: Data Science Portfolio
+description: List of miscellaneous public projects and reports.
+logo: <a href="{{ https://www.kaggle.com/static/images/host-home/host-home-research.png }}" target="_blank">{{ logo }}</a>
 theme: jekyll-theme-minimal
-
-<a href="{{ nav.url }}" target="_blank">{{ nav.name }}</a>
