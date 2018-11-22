@@ -6,3 +6,6 @@
   * [WHO under 5 survival study](AnalyticalReport_WHO.html): Exploratory analysis of child survival by country and cause of death using Python.
   * [Kickstarter project success](NarrativeAnalytics_Kickstarter.html): Identification of factor leading to successful funding using Python.
   
+
+
+CHANGED
