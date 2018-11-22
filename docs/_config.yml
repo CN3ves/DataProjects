@@ -1,4 +1,3 @@
 title: Data Science Portfolio
 description: List of miscellaneous public projects and reports.
-logo: <a href="{{ https://www.kaggle.com/static/images/host-home/host-home-research.png }}" target="_blank">{{ logo }}</a>
 theme: jekyll-theme-minimal
