@@ -1,1 +1,7 @@
 theme: jekyll-theme-minimal
+
+title: Repository of public projects
+description: Various project by Carlos Neves, Bioinformatician at [Fios Genomics](https://www.fiosgenomics.com/) and 
+Data Science Mentor at [Thinkful](https://www.thinkful.com/)
+
+show_downloads: "false"
