@@ -1,8 +1,7 @@
-theme: jekyll-theme-minimal
-
 title: Repository of public projects
-description: Various project by Carlos Neves, Bioinformatician at [Fios Genomics](https://www.fiosgenomics.com/) and 
-Data Science Mentor at [Thinkful](https://www.thinkful.com/)
-
 logo: https://www.kaggle.com/static/images/host-home/host-home-research.png
-show_downloads: "false"
+description: Various projects by Carlos Neves, Bioinformatician at [Fios Genomics](https://www.fiosgenomics.com/) and 
+Data Science Mentor at [Thinkful](https://www.thinkful.com/)
+show_downloads: false
+google_analytics:
+theme: jekyll-theme-minimal
