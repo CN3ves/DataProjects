@@ -7,5 +7,5 @@
   * [Kickstarter project success](NarrativeAnalytics_Kickstarter.html): Identification of factor leading to successful funding using Python.
   
   
-Analyses performed by [Carlos Neves](https://www.linkedin.com/in/carlos-neves-7b6a11b5/){:target="_blank"}, Bioinformatician at [FiosGenomics](https://www.fiosgenomics.com/) and Data Science mentor at [Thinkful](https://www.thinkful.com/).
+Analyses performed by [Carlos Neves](https://www.linkedin.com/in/carlos-neves-7b6a11b5/), Bioinformatician at [FiosGenomics](https://www.fiosgenomics.com/) and Data Science mentor at [Thinkful](https://www.thinkful.com/).
 
