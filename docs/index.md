@@ -10,7 +10,7 @@
     1. Analytic Report and Research Proposal
     2. Narrative analytics and experimentation
     3. Supervised Learning
-    4. Unsurpervised Learning
+    4. Unsupervised Learning
     5. Natural Language Processing      
              
              
