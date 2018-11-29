@@ -1,6 +1,6 @@
 **List of projects available**:
 
-  * [Human Activity Recognition](Activity_Recognition.pdf): Application of Random Forests to accelerometer data to predict exercise quality using R.
+  * [Human Activity Recognition](ExerciseQuality.html): Application of Random Forests to accelerometer data to predict exercise quality using R.
   * [Image background removal](https://cn3ves.shinyapps.io/ShinnyFilter/): Simple implementation of background reduction for  cell-matrix adhesions microscopy images. 
   * [UK house values](HouseValue.html): Linear regression to predict future house prices using R.
   * [Amplicon sequencing](Amplicon_sequecing.pdf): Identification of genetic variants using R.
