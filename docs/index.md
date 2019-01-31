@@ -8,6 +8,7 @@
   * [Kickstarter project success](Kickstarter.html): Identification of factors leading to successful funding using Python.  
   * A Proactive Intelligent Decision Support System for Predicting the popularity of Online News: Report examples using Python.
     1. [Analytic Report and Research Proposal](OnlineNews1.html)
+    1. [SQL introduction](OnlineNews2.html)
     2. Narrative analytics and experimentation
     3. Supervised Learning
     4. Unsupervised Learning
