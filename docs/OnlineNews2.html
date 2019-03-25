@@ -15796,6 +15796,8 @@ To request specific data from a database, the <a href="https://www.postgresql.or
 <span class="s1">                popularity</span>
 <span class="s1">            AS (</span>
 <span class="s1">                SELECT </span>
+<span class="s1">                -- Note that 1400 shares was the threshold defined in the original publication</span>
+<span class="s1">                -- defining a popular article, based on splinting the news articles evenly.</span>
 <span class="s1">                    (CASE WHEN shares &gt; 1400 THEN &#39;popular&#39; ELSE &#39;unpopular&#39; END) popularity,</span>
 <span class="s1">                    ID</span>
 <span class="s1">                 FROM news</span>
@@ -15983,7 +15985,7 @@ To request specific data from a database, the <a href="https://www.postgresql.or
 
 
 <div class="output_html rendered_html output_subarea output_execute_result">
-<table><tr><th>Software</th><th>Version</th></tr><tr><td>Python</td><td>3.6.7 64bit [GCC 8.2.0]</td></tr><tr><td>IPython</td><td>6.5.0</td></tr><tr><td>OS</td><td>Linux 4.15.0 44 generic x86_64 with Ubuntu 18.04 bionic</td></tr><tr><td>pandas</td><td>0.23.4</td></tr><tr><td>numpy</td><td>1.15.1</td></tr><tr><td>psycopg2</td><td>2.7.6.1 (dt dec pq3 ext lo64)</td></tr><tr><td>IPython</td><td>6.5.0</td></tr><tr><td colspan='2'>Thu Jan 31 15:30:17 2019 GMT</td></tr></table>
+<table><tr><th>Software</th><th>Version</th></tr><tr><td>Python</td><td>3.6.7 64bit [GCC 8.2.0]</td></tr><tr><td>IPython</td><td>6.5.0</td></tr><tr><td>OS</td><td>Linux 4.15.0 46 generic x86_64 with Ubuntu 18.04 bionic</td></tr><tr><td>pandas</td><td>0.23.4</td></tr><tr><td>numpy</td><td>1.15.1</td></tr><tr><td>psycopg2</td><td>2.7.6.1 (dt dec pq3 ext lo64)</td></tr><tr><td>IPython</td><td>6.5.0</td></tr><tr><td colspan='2'>Mon Mar 25 16:09:59 2019 GMT</td></tr></table>
 </div>
 
 </div>
