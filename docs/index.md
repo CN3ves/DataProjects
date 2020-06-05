@@ -8,7 +8,7 @@
   * [Kickstarter project success](Kickstarter.html): Identification of factors leading to successful funding using Python.  
   * A Proactive Intelligent Decision Support System for Predicting the popularity of Online News: Report examples using Python.
     1. [Analytic Report and Research Proposal](OnlineNews1.html)
-    1. [SQL introduction](OnlineNews2.html)
+    2. [SQL introduction](OnlineNews2.html)
   * [DNA methylation analysis](Methylation.html): Analysis of 450K Illumina methylation array data, blood cell population decomposition and methylation clock
    
              
