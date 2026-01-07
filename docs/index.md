@@ -10,6 +10,13 @@
     1. [Analytic Report and Research Proposal](OnlineNews1.html)
     2. [SQL introduction](OnlineNews2.html)
   * [DNA methylation analysis](Methylation.html): Analysis of 450K Illumina methylation array data, blood cell population decomposition and methylation clock
+
+**List of publications**:
+  * [Tissue specific characterisation of Lim-kinase 1 expression during mouse embryogenesis](https://pubmed.ncbi.nlm.nih.gov/21167960/) Gene Expr Patterns 2011
+  * [Interaction between hedgehog signalling and PAX6 dosage mediates maintenance and regeneration of the corneal epithelium](https://pmc.ncbi.nlm.nih.gov/articles/PMC3265179/) Mol Vis 2012
+  * [Distinctive Roles of Canonical and Noncanonical Wnt Signaling in Human Embryonic Cardiomyocyte Development. Stem Cell Reports](https://pubmed.ncbi.nlm.nih.gov/27641648/)  Stem Cell Reports 2016
+  * [The developmental and genetic basis of 'clubfoot' in the peroneal muscular atrophy mutant mouse](https://pubmed.ncbi.nlm.nih.gov/29439133/) Development 2018
+  * [The sleep-wake history contributes to rhythmic BMAL1 chromatin binding in the cerebral cortex but not in the liver](https://pubmed.ncbi.nlm.nih.gov/41296730/) Proc Natl Acad Sci USA 2025 
    
              
              
