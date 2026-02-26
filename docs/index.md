@@ -11,6 +11,8 @@
     2. [SQL introduction](OnlineNews2.html)
   * [DNA methylation analysis](Methylation.html): Analysis of 450K Illumina methylation array data, blood cell population decomposition and methylation clock
 
+  * [Multiomics Data Analysis and Integration](MixOmics_SIB.html): Report for Multiomics Data Analysis and Integration [SIB course](https://www.sib.swiss/training/course/20240313_MODAI)
+
 **List of publications**:
   * [Tissue specific characterisation of Lim-kinase 1 expression during mouse embryogenesis](https://pubmed.ncbi.nlm.nih.gov/21167960/) Gene Expr Patterns 2011
   * [Interaction between hedgehog signalling and PAX6 dosage mediates maintenance and regeneration of the corneal epithelium](https://pmc.ncbi.nlm.nih.gov/articles/PMC3265179/) Mol Vis 2012
