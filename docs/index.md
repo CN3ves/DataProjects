@@ -10,7 +10,6 @@
     1. [Analytic Report and Research Proposal](OnlineNews1.html)
     2. [SQL introduction](OnlineNews2.html)
   * [DNA methylation analysis](Methylation.html): Analysis of 450K Illumina methylation array data, blood cell population decomposition and methylation clock
-
   * [Multiomics Data Analysis and Integration](MixOmics_SIB.html): Report for Multiomics Data Analysis and Integration [SIB course](https://www.sib.swiss/training/course/20240313_MODAI)
 
 **List of publications**:
