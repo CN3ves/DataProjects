@@ -21,5 +21,5 @@
    
              
              
-All projects are were performed by [Carlos Neves](https://www.linkedin.com/in/carlos-neves-7b6a11b5/).
+All projects are were performed by Carlos Neves ([LinkedIn](https://www.linkedin.com/in/carlos-neves-7b6a11b5/)).
 
