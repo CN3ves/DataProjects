@@ -11,7 +11,7 @@
     2. [SQL introduction](OnlineNews2.html)
   * [DNA methylation analysis](Methylation.html): Analysis of 450K Illumina methylation array data, blood cell population decomposition and methylation clock
   * [Multiomics Data Analysis and Integration](MixOmics_SIB.html): Report for Multiomics Data Analysis and Integration [SIB course](https://www.sib.swiss/training/course/20240313_MODAI)
-  * [Multiomics Data Integration and Visualisation](multiomics.html): Report for Biology-informed Integration and Visualisation of Multiomics Data [SIB course]([https://www.sib.swiss/training/course/20240313_MODAI](https://www.sib.swiss/training/course/20260217_BIVMD))
+  * [Multiomics Data Integration and Visualisation](multiomics.html): Report for Biology-informed Integration and Visualisation of Multiomics Data [SIB course]([https://www.sib.swiss/training/course/20240313_MODAI](https://www.sib.swiss/training/course/20260217_BIVMD)
 
 **List of publications**:
   * [Tissue specific characterisation of Lim-kinase 1 expression during mouse embryogenesis](https://pubmed.ncbi.nlm.nih.gov/21167960/) Gene Expr Patterns 2011
